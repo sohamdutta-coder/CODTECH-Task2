@@ -61,4 +61,6 @@ The completed Inventory Management System provides a robust and user-friendly so
 ---
 
 ## Screenshot
+![inventory_management_sys_loginpg](https://github.com/user-attachments/assets/71f6167a-ddad-4052-8e55-0cad39d0d895)
+
 
