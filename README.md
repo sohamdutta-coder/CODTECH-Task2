@@ -65,4 +65,6 @@ The completed Inventory Management System provides a robust and user-friendly so
 
 ![inventory_management_sys_dashboard](https://github.com/user-attachments/assets/a073cdcb-97f7-44a7-92dd-2212ce2880a5)
 
+![inventory_management_sys_products](https://github.com/user-attachments/assets/c5b77448-eacf-45a1-9643-6217122e70d8)
+
 
